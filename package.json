@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/punnettsquaresrule/ghactions.git"
   },
+  "publishConfig": {
+    "@punnettsquaresrule:registry": "https://npm.pkg.github.com"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
